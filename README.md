@@ -1,16 +1,32 @@
-## Hi there 👋
+# Merhaba, ben İrem 👋
 
-<!--
-**iremkondak/iremkondak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Yazılım Mühendisliği mezunuyum.  
+💻 Web geliştirme ve yazılım teknolojileri üzerine kendimi geliştiriyorum.  
+🚀 Gerçek dünya problemlerine yönelik projeler geliştirerek deneyim kazanıyorum.
 
-Here are some ideas to get you started:
+## 💻 Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Next.js
+- Tailwind CSS
+- Git & GitHub
+
+## 🚀 Projelerim
+
+### 🔎 FiyatRadar
+Farklı e-ticaret platformlarındaki ürün fiyatlarını karşılaştırmayı amaçlayan web uygulaması.
+
+**Teknolojiler:** Next.js, TypeScript, Tailwind CSS, Playwright
+
+### 🤖 Kariyer Yolu AI
+Kullanıcılara kariyer yolları konusunda yardımcı olmayı amaçlayan yapay zekâ destekli web uygulaması.
+
+## 🌱 Şu anda
+
+- JavaScript bilgilerimi geliştiriyorum
+- Web geliştirme mimarisini öğreniyorum
+- React ve Next.js üzerine çalışıyorum
+- Yeni projeler geliştirerek GitHub portföyümü büyütüyorum
